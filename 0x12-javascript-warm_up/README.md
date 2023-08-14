@@ -1,1 +1,1 @@
-Javascript warm up by Faith Ujunwa Ozoanieke
+Javascript warm up by Agu Daniel
